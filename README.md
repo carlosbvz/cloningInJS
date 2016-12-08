@@ -1,0 +1,1 @@
+# Here I got some examples for cloning js primitive and object types
